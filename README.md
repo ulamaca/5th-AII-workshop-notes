@@ -4,11 +4,6 @@
 
 這裡是我的 LinkedIn profile: ([Kuan-Chun Lee](https://www.linkedin.com/in/kuan-chun-l-a7745560/))，如果大家對於本筆記有任何疑問或建議歡迎與我聯繫!
 
-<!-- /個人 side notes (不顯示) -->
-<!-- 第一次筆記: 講者 與它們談論的架構 -->
-<!-- 第二次筆記: 講者談論的具體內容 -->
-<!-- 第三次筆記: 一些自己的想法或是其他的 + 一些 ChatGPT 的建議 -->
-<!-- ** 部分我們可以讓 chatGPT 回答一下 -->
 
 -------------------------------------
 
@@ -299,7 +294,7 @@
                 - 原本的 single-value Q, 改為 sup over Qs in Pensieve
             - 論文 Figure 1: Q-pensieve 工作流程圖
             - 實作上很容易，且實證上發現不需要太大的 buffer size (size = 4)
-            - 可能缺點: 疑似需要對每個 objetive dimension 都建立一個獨立的 Network                
+                           
                             
     
 ### 16 [劉育綸](https://www.cmlab.csie.ntu.edu.tw/~yulunliu/)
